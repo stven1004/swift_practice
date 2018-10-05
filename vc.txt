@@ -1,8 +1,4 @@
-ew vc
-alsfjlajsldfjlasjlf
-:wq
-:
 
-add something.
-;
-swift
+add new swift seungjun
+
+
